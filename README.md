@@ -3,5 +3,4 @@
 ### i am a student
 ### i am from indonesia
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murdiantasriel)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murdiantasriel&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murdiantasriel&show_icons=true&theme=radical)
